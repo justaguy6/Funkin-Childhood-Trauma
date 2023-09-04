@@ -1,6 +1,6 @@
 ## Funkin Childhood Trauma:
 
-If you want to download the build then go to the gamebanana, website, or github releases
+If you want to download the build then go to the gamebanana, website, or gamejolt
 
 ![image](https://github.com/ShadowMario/FNF-PsychEngine/assets/130803298/c0003bdf-d8c6-4ce4-94d0-b92fc0d147c4)
 
