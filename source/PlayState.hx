@@ -1234,7 +1234,7 @@ class PlayState extends MusicBeatState
 			switch(Paths.formatToSongPath(SONG.song))
 			{
 				case 'stress':
-		GLsion = 'pico-speaker';
+		                gfVersion = 'pico-speaker';
 			}
 			SONG.gfVersion = gfVersion; //Fix for the Chart Editor
 		}
@@ -1683,7 +1683,7 @@ class PlayState extends MusicBeatState
 						}
 					});
 					FlxG.sound.play(Paths.soundRandom('thunder_', 1, 2));
-					if(gf != null) gf.playAnim('red', true);
+					if(gf != null) gf.playAnim('scared', true);
 					boyfriend.playAnim('scared', true);
 
 				case "winter-horrorland":
